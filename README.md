@@ -45,11 +45,12 @@ My toolkit is constantly expanding as I explore different domains within compute
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
 
 #### Other languajes I have used
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 
 ### 🎓 My Academic Journey
 I am currently studing a degree in **Computer Engineering** at the Tecnológico de Costa Rica. This program provides me with a strong foundation in the core principles of computer science and allows me to explore specialized areas such as algorithms, data structures, operating systems, data bases, and Software Requirements/Design/QA.

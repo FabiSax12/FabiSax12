@@ -32,15 +32,15 @@ My toolkit is constantly expanding as I explore different domains within compute
 
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)-->
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-05122A?style-flat&logo=mssqlserver)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 #### Cloud & DevOps (Areas of Exploration)
-![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style-flat&logo=msazure)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style-flat&logo=msazure)
+<!--![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services)
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)-->
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)

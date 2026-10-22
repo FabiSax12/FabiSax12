@@ -9,6 +9,15 @@
 Computer Engineering student seeking a software engineering internship in full-stack development, AI agent engineering and cloud infrastructure. 2+ years of hands-on experience building web applications and cloud systems with Python, FastAPI, TypeScript, React and Next.js on AWS and Azure. Built a distributed processing platform on AWS (FastAPI, SQS, DynamoDB, Terraform) and maintain a production application used by TEC students, with automated tests, GitHub Actions CI/CD and telemetry (Application Insights). Ship code orchestrating AI coding agents (Claude Code, Model Context Protocol, Agent Skills) through a spec-driven workflow using written specs, scoped Jira tickets and human review of every change. Work daily with Git and the Linux command line and make progress from high-level guidance.
 <!-- profile:end about -->
 
+🔭 Currently working on: University coursework and personal projects exploring new technologies.
+
+🌱 Learning: Deepening my understanding of cloud infrastructure, SQL, and software design patterns.
+
+📫 How to reach me: fabidev18@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabian-va/)
+
+⚡ Fun fact: I'm an avid coffee enthusiast and enjoy exploring new coffee blends and brewing methods – the perfect companion for late-night coding sessions!
+
+
 ### 🛠️ Technologies and Tools
 <!-- profile:begin tech -->
 #### Languages
@@ -41,7 +50,7 @@ Computer Engineering student seeking a software engineering internship in full-s
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-`SQL Server`
+![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-05122A?style-flat&logo=mssqlserver)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 

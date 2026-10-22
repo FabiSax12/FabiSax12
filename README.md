@@ -30,32 +30,25 @@ Computer Engineering student seeking a software engineering internship in full-s
 
 
 #### Backend & APIs
-`FastAPI`
-`REST APIs`
-`WebSocket`
-`JSON`
+[FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![WebSocket](https://img.shields.io/badge/WebSocket-ws-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
-`Spring Boot`
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 `Microservices`
 `Event-Driven Architecture`
-`Asynchronous Programming`
-`Zod`
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 `SQL Server`
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-`Supabase`
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Cloud & IaC
-`AWS S3`
-`AWS CloudFront`
-`Azure Static Web Apps`
-`Azure Application Insights`
+![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-black?colorA=white&logoColor=232F3E&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-`Vercel`
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### Testing & CI/CD
 `pytest`

@@ -1,65 +1,104 @@
 ## 👋 Hi there! I'm Fabián
 
 ### 🚀 About Me
-A passionate student at the Tecnológico de Costa Rica with a keen interest in the diverse fields of computer science. My current focus lies in exploring and contributing to areas such as **Web Development**, **Data Engineering**, **Cloud Computing**, **DevOps**, and **Software Architecture**.
+<!-- profile:begin about -->
+<!-- profile:template v1 -->
 
-🔭 Currently working on: University coursework and personal projects exploring new technologies.
+**Computer Engineering student · Full-stack development, cloud infrastructure and AI agent engineering**
 
-🌱 Learning: Deepening my understanding of cloud infrastructure, SQL, and software design patterns.
-
-📫 How to reach me: fabidev18@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabian-va/)
-
-⚡ Fun fact: I'm an avid coffee enthusiast and enjoy exploring new coffee blends and brewing methods – the perfect companion for late-night coding sessions!
+Computer Engineering student seeking a software engineering internship in full-stack development, AI agent engineering and cloud infrastructure. 2+ years of hands-on experience building web applications and cloud systems with Python, FastAPI, TypeScript, React and Next.js on AWS and Azure. Built a distributed processing platform on AWS (FastAPI, SQS, DynamoDB, Terraform) and maintain a production application used by TEC students, with automated tests, GitHub Actions CI/CD and telemetry (Application Insights). Ship code orchestrating AI coding agents (Claude Code, Model Context Protocol, Agent Skills) through a spec-driven workflow using written specs, scoped Jira tickets and human review of every change. Work daily with Git and the Linux command line and make progress from high-level guidance.
+<!-- profile:end about -->
 
 ### 🛠️ Technologies and Tools
-My toolkit is constantly expanding as I explore different domains within computer science. Here are some of the technologies and tools I'm currently working with:
-
-#### Web Development
-##### Frontend
+<!-- profile:begin tech -->
+#### Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+`SQL`
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwindcss](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 
-##### Backend
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+#### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+`Next.js (App Router)`
+`TanStack Start`
+`TanStack Router`
+`TanStack Query`
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
+`Zustand`
+
+#### Backend & APIs
+`FastAPI`
+`REST APIs`
+`WebSocket`
+`JSON`
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
-
+`Spring Boot`
+`Microservices`
+`Event-Driven Architecture`
+`Asynchronous Programming`
+`Zod`
 
 #### Databases
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)-->
-![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-05122A?style-flat&logo=mssqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+`SQL Server`
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+`Supabase`
 
-#### Cloud & DevOps (Areas of Exploration)
+#### Cloud & IaC
+`AWS S3`
+`AWS CloudFront`
+`Azure Static Web Apps`
+`Azure Application Insights`
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-05122A?style-flat&logo=msazure)
-<!--![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-web-services)
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)-->
+`Vercel`
 
-#### Tools
+#### Testing & CI/CD
+`pytest`
+`Vitest`
+`Playwright`
+`Unit / Integration Testing`
+`GitHub Actions`
+`CI/CD Pipelines`
+
+#### AI & Agents
+`Claude Code`
+`Model Context Protocol (MCP)`
+`Agent Skills`
+`AI Agents`
+`Spec-Driven Development`
+`Test-Driven Development (TDD)`
+`n8n`
+
+#### Tools & Practices
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+`Linux / Command Line`
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
+`SCRUM / Agile`
+`Hexagonal Architecture`
+`Clean Code`
+`Code Review`
 
-#### Other languajes I have used
-![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+#### Spoken Languages
+`Spanish (native)`
+`English (B2)`
+<!-- profile:end tech -->
 
 ### 🎓 My Academic Journey
 I am currently studing a degree in **Computer Engineering** at the Tecnológico de Costa Rica. This program provides me with a strong foundation in the core principles of computer science and allows me to explore specialized areas such as algorithms, data structures, operating systems, data bases, and Software Requirements/Design/QA.
 
 ### 📬 Contact Me
-I'm always open to connecting with fellow students, developers, and professionals in the tech community. Feel free to reach out via:
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fabidev18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-va/)
+<!-- profile:begin contact -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vargasarayafabian11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabian-va)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FabiSax12)
+<!-- profile:end contact -->
 
 <!--
 ### 📈 GitHub Stats

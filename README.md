@@ -21,6 +21,8 @@ Computer Engineering student seeking a software engineering internship in full-s
 ### 🛠️ Technologies and Tools
 <!-- profile:begin tech -->
 #### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,html,css)](https://skillicons.dev)
+<!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -28,17 +30,20 @@ Computer Engineering student seeking a software engineering internship in full-s
 `SQL`
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-
+-->
 #### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind)](https://skillicons.dev)
+<!--
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 [![TanStack](https://img.shields.io/badge/TanStack-222222?style=for-the-badge&logo=TanStack&logoColor=ECE8D1)](https://tanstack.com/)
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![Zustand](https://img.shields.io/badge/zustand-602c3c?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA8FBMVEVHcExXQzpKQDlFV16lpqyGh4tPPTdWT0weHRU7LRZGQzmxYjlaTkZsbmywVyxtXDSFhISXm6WWpcaytb6bm56gprY0LiiXmp2prLamsMa0XS42MSxkTUVDSkuyYzGihXdDV2GprbmedVxaRD1kTUWUdGFGOCN4a2OfpbI0SFFAMSddTkbCc0dWQiGFRypXQyJUQCBcTTWviDVXQyJcUDjlqCWxjkG+hBTiohtURD6lr8lORTtDVVZmPyxwSipaRSJDOzaWpsyYqMyYqM2dq8tPOjBERTs6QUKTcCeKaCJvViZdSDK4iSngoiDvqx7KkRuGEi1hAAAAOXRSTlMApZ78cB8hCAMQO/j/FOH4KlT1wFfJTjaY6SxtVexFn3Tn2sN6d671mVuJ+/PPN9CT6TfpS4C9jJaVLRihAAAAi0lEQVQIHXXBxRKCUAAF0Es/QMDubsVuGrv1///GBQ4bx3PwgwC8gFCRohs8QrQV0ZtKOZ9JcgBmU8MwqFa9kjNTUWB58f2jPOjU9juTBTbPq+vIar972MZjwPr1uDvqCFw2wQpQVm/t7Oo9gAgAFtrtZNtMFQFp7nkWU5IQECfjYbuQFvBFRJHgjw9L0A80UmaGpAAAAABJRU5ErkJggg==)
-
-
+-->
 #### Backend & APIs
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,spring)](https://skillicons.dev)
+<!--
 [FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![WebSocket](https://img.shields.io/badge/WebSocket-ws-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -47,26 +52,33 @@ Computer Engineering student seeking a software engineering internship in full-s
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 `Microservices`
 `Event-Driven Architecture`
+-->
 
 #### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,supabase)](https://skillicons.dev)
+<!--
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL_Server-05122A?style-flat&logo=mssqlserver)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
+-->
 #### Cloud & IaC
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,vercel)](https://skillicons.dev)
+<!--
 ![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-black?colorA=white&logoColor=232F3E&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+-->
 #### Testing & CI/CD
+[![My Skills](https://skillicons.dev/icons?i=vitest,githubactions)](https://skillicons.dev)
+<!--
 `pytest`
 `Vitest`
 `Playwright`
 `Unit / Integration Testing`
 `GitHub Actions`
 `CI/CD Pipelines`
-
+-->
 #### AI & Agents
 `Claude Code`
 `Model Context Protocol (MCP)`
@@ -77,6 +89,8 @@ Computer Engineering student seeking a software engineering internship in full-s
 `n8n`
 
 #### Tools & Practices
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+<!--
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 `Linux / Command Line`
@@ -85,7 +99,7 @@ Computer Engineering student seeking a software engineering internship in full-s
 `Hexagonal Architecture`
 `Clean Code`
 `Code Review`
-
+-->
 #### Spoken Languages
 `Spanish (native)`
 `English (B2)`

@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/FabiSax12?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/FabiSax12?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/created-at/FabiSax12?style=for-the-badge&logo=github&label=Member_since" alt="Member since" />
   <img src="https://komarev.com/ghpvc/?username=FabiSax12&style=for-the-badge&label=Profile+views&color=blueviolet" alt="Profile views" />
 </p>
 
@@ -158,16 +157,6 @@ I'm looking for a software engineering internship in full-stack development, AI 
 </p>
 
 </details>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake.svg" />
-  </picture>
-</p>
 
 ### ⏱️ Weekly Coding Activity
 <!--START_SECTION:waka-->

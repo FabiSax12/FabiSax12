@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi there, I'm Fabián</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi%20there%2C%20I'm%20Fabi%C3%A1n&fontSize=46&fontAlignY=38&animation=fadeIn" alt="Hi there, I'm Fabián" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/FabiSax12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=50&lines=Full-stack+Developer;Cloud+Engineer;Data+Engineer" alt="Full-stack Developer, Cloud Engineer, Data Engineer" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Engineering-TEC_Costa_Rica-0B3D91?style=for-the-badge&logo=gradle&logoColor=white" alt="Computer Engineering at TEC" />
@@ -34,7 +42,9 @@ I'm looking for a software engineering internship in full-stack development, AI 
 
 ⚡ **Fun fact:** I'm a coffee enthusiast. Late-night coding sessions run on new blends and brewing methods.
 
-### 🛠️ Technologies and Tools
+<details open>
+<summary><h3 style="display:inline">🛠️ Technologies and Tools</h3></summary>
+
 <!-- profile:begin tech -->
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -113,6 +123,8 @@ I'm looking for a software engineering internship in full-stack development, AI 
 ![English](https://img.shields.io/badge/English-B2-012169?style=for-the-badge)
 <!-- profile:end tech -->
 
+</details>
+
 ### 📂 Featured Projects
 
 | Project | What it is | Stack |
@@ -121,6 +133,48 @@ I'm looking for a software engineering internship in full-stack development, AI 
 | [**Fifa Data Platform**](https://github.com/FabiSax12/fifa_data_platform) | FIFA player data pipeline: Airflow ingests CSVs, dbt builds staging and marts, warehouse on local Postgres and Amazon Redshift Serverless in production (Terraform). | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
 | [**Tec Horarios**](https://github.com/FabiSax12/tec-horarios) | Platform that helps TEC students build their course schedule. In production, with tests and CI/CD. | ![TanStack](https://img.shields.io/badge/TanStack_Start-222222?style=flat-square&logo=tanstack&logoColor=ECE8D1) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | [**Uniflow**](https://github.com/FabiSax12/Uniflow) | Cloud microservices architecture, final project for Software Design. Java, NestJS and Go services in Docker with GitHub Actions. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FabiSax12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabiSax12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FabiSax12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<details>
+<summary>More cards: profile summary</summary>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabiSax12&theme=tokyonight" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabiSax12&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabiSax12&theme=tokyonight" alt="Most commit language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabiSax12&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FabiSax12&theme=tokyonight&utcOffset=-6" alt="Productive time" />
+</p>
+
+</details>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/FabiSax12/FabiSax12/output/github-snake.svg" />
+  </picture>
+</p>
+
+### ⏱️ Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 🎓 Education
 Computer Engineering at the **Tecnológico de Costa Rica (TEC)**: algorithms, data structures, operating systems, databases, and software requirements, design and QA.
